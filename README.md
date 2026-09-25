@@ -120,30 +120,9 @@ Uma ou duas linhas sobre o que ele resolve.
 
 <br/>
 
-<!-- ────────────────────────  STATS  ───────────────────────── -->
-
-## ` 04 ` Números
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=GustavoMeirellesD3V&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=00000000&border=30363d&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&currStreakNum=e6edf3&sideLabels=8b949e&sideNums=e6edf3&dates=8b949e"
-  alt="Sequência de contribuições"
-/>
-
-</div>
-
-<!-- Stats, Top Languages, Activity Graph e Trophies saíram daqui porque os
-     serviços que geram essas imagens (github-readme-stats.vercel.app,
-     github-readme-activity-graph.vercel.app, github-profile-trophy.vercel.app)
-     estavam fora do ar por estouro de cota. Para recolocar, o caminho estável
-     é subir sua própria instância no Vercel e apontar as URLs para ela. -->
-
-<br/>
-
 <!-- ─────────────────────────  SNAKE  ──────────────────────── -->
 
-## ` 05 ` Contribuições
+## ` 04 ` Contribuições
 
 <div align="center">
 
@@ -159,7 +138,7 @@ Uma ou duas linhas sobre o que ele resolve.
 
 <!-- ─────────────────────────  CONTATO  ────────────────────── -->
 
-## ` 06 ` Onde me achar
+## ` 05 ` Onde me achar
 
 <div align="center">
 
