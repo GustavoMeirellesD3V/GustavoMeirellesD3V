@@ -118,17 +118,6 @@ Uma ou duas linhas sobre o que ele resolve.
   </tr>
 </table>
 
-<div align="center">
-
-<a href="https://github.com/GustavoMeirellesD3V/Primeira-vers-o-agendamento-nail-">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=GustavoMeirellesD3V&repo=Primeira-vers-o-agendamento-nail-&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&border_color=30363d&show_owner=false"
-    alt="Repositório do agendamento Carioca e Glow"
-  />
-</a>
-
-</div>
-
 <br/>
 
 <!-- ────────────────────────  STATS  ───────────────────────── -->
@@ -138,39 +127,17 @@ Uma ou duas linhas sobre o que ele resolve.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=GustavoMeirellesD3V&show_icons=true&locale=pt-br&rank_icon=github&include_all_commits=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&border_color=30363d"
-  alt="Estatísticas do GitHub"
-  height="165"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMeirellesD3V&layout=compact&langs_count=6&locale=pt-br&bg_color=00000000&title_color=e6edf3&text_color=8b949e&border_color=30363d"
-  alt="Linguagens mais usadas"
-  height="165"
-/>
-
-<br/>
-
-<img
   src="https://streak-stats.demolab.com?user=GustavoMeirellesD3V&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=00000000&border=30363d&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&currStreakNum=e6edf3&sideLabels=8b949e&sideNums=e6edf3&dates=8b949e"
   alt="Sequência de contribuições"
 />
 
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoMeirellesD3V&bg_color=0d1117&color=e6edf3&line=8b949e&point=ffffff&area=true&area_color=30363d&hide_border=true&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias"
-  alt="Gráfico de atividade"
-  width="100%"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=GustavoMeirellesD3V&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"
-  alt="Troféus do GitHub"
-/>
-
 </div>
+
+<!-- Stats, Top Languages, Activity Graph e Trophies saíram daqui porque os
+     serviços que geram essas imagens (github-readme-stats.vercel.app,
+     github-readme-activity-graph.vercel.app, github-profile-trophy.vercel.app)
+     estavam fora do ar por estouro de cota. Para recolocar, o caminho estável
+     é subir sua própria instância no Vercel e apontar as URLs para ela. -->
 
 <br/>
 
