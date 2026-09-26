@@ -102,21 +102,32 @@ gerencia a agenda. Em produção, com cliente real.
   </td>
   <td width="50%" valign="top">
 
-### Próximo projeto
+### Portfólio
 
-Em construção. Assim que sair do rascunho, entra aqui.
+Meu site pessoal. Reúne quem eu sou, o que uso e os
+projetos que já foram pro ar. Feito à mão, sem framework
+e sem build — só HTML, CSS e JavaScript.
 
-<!-- Modelo pronto — é só preencher e apagar este comentário:
+`HTML` `CSS` `JavaScript` `Vercel`
+
+<a href="https://gustavodev.api.br">
+  <img src="https://img.shields.io/badge/ver_site-e6edf3?style=flat-square&logoColor=0d1117" alt="Ver site" />
+</a>
+<a href="https://github.com/GustavoMeirellesD3V/portfolio">
+  <img src="https://img.shields.io/badge/código-161b22?style=flat-square&logo=github&logoColor=e6edf3" alt="Código" />
+</a>
+
+  </td>
+  </tr>
+</table>
+
+<!-- Modelo pronto para o próximo projeto — é só duplicar a estrutura <tr>/<td> acima:
 
 ### Nome do projeto
 Uma ou duas linhas sobre o que ele resolve.
 
 `HTML` `CSS` `JavaScript`
 -->
-
-  </td>
-  </tr>
-</table>
 
 <br/>
 
